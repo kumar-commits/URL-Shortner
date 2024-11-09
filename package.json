@@ -1,0 +1,21 @@
+{
+  "name": "url-shortner",
+  "version": "1.0.0",
+  "description": "a basic urls-shortner application",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "keywords": [
+    "node.js",
+    "express.js"
+  ],
+  "author": "kumar10",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.4.1",
+    "nanoid": "^5.0.7",
+    "shortid": "^2.2.16"
+  }
+}
